@@ -52,5 +52,5 @@ Win10显示效果更佳
 
 ### 赞助
 
-[点击进入赞助页](http://arae.cc/about/#%E6%89%93%E8%B5%8F-amp-%E8%B5%9E%E5%8A%A9)
+[点击进入赞助页](http://arae.cc/about.html#%E6%89%93%E8%B5%8F-amp-%E8%B5%9E%E5%8A%A9)
 
