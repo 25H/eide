@@ -12,6 +12,13 @@ EIDE支持库是一款基于易语言IDE开发的编程工具，提供了很多�
 **最新版本界面可能与截图有出入。**
 Win10显示效果更佳
 
+![](https://raw.githubusercontent.com/25H/eide/master/_src/img/1.png)
+![](https://raw.githubusercontent.com/25H/eide/master/_src/img/2.png)
+![](https://raw.githubusercontent.com/25H/eide/master/_src/img/3.png)
+![](https://raw.githubusercontent.com/25H/eide/master/_src/img/4.png)
+![](https://raw.githubusercontent.com/25H/eide/master/_src/img/5.png)
+![](https://raw.githubusercontent.com/25H/eide/master/_src/img/6.png)
+
 
 ## 更新说明
 
