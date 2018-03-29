@@ -49,6 +49,8 @@ Win10显示效果更佳
 
 ### 下载 -> 安装
 
+[点击进入下载页](https://github.com/25H/eide/releases)
+
 
 ### 赞助
 
