@@ -1,4 +1,9 @@
 
+# EIDEA已经停更，[点击下载新版(AMZ)](https://github.com/25H/AMZ/releases/latest)
+
+
+---
+
 **[点击阅读原文](http://arae.cc/post/25762.html)**
 
 
